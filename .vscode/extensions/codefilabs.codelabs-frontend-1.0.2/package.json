@@ -1,0 +1,51 @@
+{
+	"name": "codelabs-frontend",
+	"displayName": "Code Labs Frontend",
+	"description": "Extensions to get started with angular for Code Labs Frontend",
+	"version": "1.0.2",
+	"publisher": "CodefiLabs",
+	"icon": "images/logo.png",
+	"galleryBanner": {
+		"color": "#74B246",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"Angular.ng-template",
+		"CoenraadS.bracket-pair-colorizer",
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+		"eg2.vscode-npm-script",
+		"esbenp.prettier-vscode",
+		"johnpapa.angular-essentials",
+		"johnpapa.Angular2",
+		"johnpapa.vscode-peacock",
+		"johnpapa.winteriscoming",
+		"ms-vsliveshare.vsliveshare",
+		"msjsdiag.debugger-for-chrome",
+		"msjsdiag.debugger-for-edge",
+		"nrwl.angular-console",
+		"PKief.material-icon-theme",
+		"ms-vsliveshare.vsliveshare-audio"
+	],
+	"homepage": "https://codelabs.codefiworks.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CodefiLabs/Codelabs-Frontend-VSCode-Extensions.git"
+	},
+	"bugs": {
+		"url": "https://github.com/CodefiLabs/Codelabs-Frontend-VSCode-Extensions/issues"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"__metadata": {
+		"id": "06fca1f0-a9ef-4bf4-a6b8-8d7d116ccd20",
+		"publisherId": "9cc4eab0-8e60-4afa-8a5b-391c4512f076",
+		"publisherDisplayName": "Codefi Labs",
+		"installedTimestamp": 1631579041601
+	}
+}
